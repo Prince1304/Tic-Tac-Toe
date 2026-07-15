@@ -37,3 +37,14 @@ All you need is a modern web browser installed on your computer.
 1. Clone the repository:
    ```bash
    git clone [https://github.com/prince1304/Tic-Tac-Toe.git](https://github.com/prince1304/Tic-Tac-Toe.git)
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Tic-Tac-Toe
+   ```
+3. Open the game:
+   Simply double-click the index.html file to launch it in your default browser.
+
+## 🕹️ How to Play
+
